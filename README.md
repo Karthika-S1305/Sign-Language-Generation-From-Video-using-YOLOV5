@@ -6,7 +6,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/sign-language-detection.git
+git clone https://github.com/Karthika-S1305/Sign-Language-Generation-From-Video-using-YOLOV5.git
 Install dependencies:
 
 bash
